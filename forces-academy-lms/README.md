@@ -1,4 +1,4 @@
-# Forces Academy LMS
+# Forces Academy LMS ...
 
 A Learning Management System built with **PHP + MySQL + Bootstrap 5**, covering
 **Week 1, Week 2, and Week 3** of the Full Stack track in one project.
